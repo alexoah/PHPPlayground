@@ -14,6 +14,12 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_variables1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_variables2) |
 | Answer | [A1](./PHP-Variables/phpVariablesE1.php) | [A2](./PHP-Variables/phpVariablesE2.php) |
 
+## [PHP Strings](./PHP-Strings): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_string.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_strings1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_strings2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_strings3) |
+| Answer | [A1](./PHP-Strings/phpStringsE1.php) | [A2](./PHP-Strings/phpStringsE2.php) | [A3](./PHP-Strings/phpStringsE3.php) |
+
 
 
 ___list will be added soon___
