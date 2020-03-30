@@ -8,6 +8,12 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax4) | [Q5](https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax5) |
 | Answer | [A1](./PHP-Syntax/phpSyntaxE1.php) | [A2](./PHP-Syntax/phpSyntaxE2.php) | [A3](./PHP-Syntax/phpSyntaxE3.php) | [A4](./PHP-Syntax/phpSyntaxE4.php) | [A5](./PHP-Syntax/phpSyntaxE5.php) |
 
+## [PHP Variables](./PHP-Variables): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_variables.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_variables1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_variables2) |
+| Answer | [A1](./PHP-Variables/phpVariablesE1.php) | [A2](./PHP-Variables/phpVariablesE2.php) |
+
 
 
 ___list will be added soon___
