@@ -33,7 +33,7 @@ Total: 47 Exercises.
 | Answer | [A1](./PHP-IfElse/phpIfElseE1.php) | [A2](./PHP-IfElse/phpIfElseE2.php) | [A3](./PHP-IfElse/phpIfElseE3.php) | [A4](./PHP-IfElse/phpIfElseE4.php) |
 
 
-___ more will be added soon ___
+*more will be added soon*
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
