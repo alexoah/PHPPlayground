@@ -38,6 +38,18 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_switch1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_switch2) |
 | Answer | [A1](./PHP-Switch/phpSwitchE1.php) | [A2](./PHP-Switch/phpSwitchE2.php) |
 
+## [PHP Loops](./PHP-Loops): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_looping.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_loops1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_loops2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_loops3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_loops4) |
+| Answer | [A1](./PHP-Loops/phpLoopsE1.php) | [A2](./PHP-Loops/phpLoopsE2.php) | [A3](./PHP-Loops/phpLoopsE3.php) | [A4](./PHP-Loops/phpLoopsE4.php) |
+
+## [PHP Functions](./PHP-Functions): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_functions.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_functions1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_functions2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_functions3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_functions4) |
+| Answer | [A1](./PHP-Functions/phpFunctionsE1.php) | [A2](./PHP-Functions/phpFunctionsE2.php) | [A3](./PHP-Functions/phpFunctionsE3.php) | [A4](./PHP-Functions/phpFunctionsE4.php) |
+
 
   
 *more will be added soon*
