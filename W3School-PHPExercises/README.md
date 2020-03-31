@@ -26,8 +26,14 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_operators1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_operators2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_operators3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_operators4) |
 | Answer | [A1](./PHP-Operators/phpOperatorsE1.php) | [A2](./PHP-Operators/phpOperatorsE2.php) | [A3](./PHP-Operators/phpOperatorsE3.php) | [A4](./PHP-Operators/phpOperatorsE4.php) |
 
+## [PHP If...Else](./PHP-IfElse): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_if_else.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_ifelse1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_ifelse2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_ifelse3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_ifelse4) |
+| Answer | [A1](./PHP-IfElse/phpIfElseE1.php) | [A2](./PHP-IfElse/phpIfElseE2.php) | [A3](./PHP-IfElse/phpIfElseE3.php) | [A4](./PHP-IfElse/phpIfElseE4.php) |
 
-___list will be added soon___
+
+___ more will be added soon ___
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
