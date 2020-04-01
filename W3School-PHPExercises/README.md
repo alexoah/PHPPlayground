@@ -68,9 +68,11 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates3) |
 | Answer | [A1](./PHP-Dates/phpDatesE1.php) | [A2](./PHP-Dates/phpDatesE2.php) | [A3](./PHP-Dates/phpDatesE3.php) |
 
-
-  
-*more will be added soon*
+## [PHP Advanced](./PHP-Advanced): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_includes.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced4) | [Q5](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced5) | [Q6](https://www.w3schools.com/php/exercise.asp?filename=exercise_advanced6) |
+| Answer | [A1](./PHP-Advanced/phpAdvancedE1.php) | [A2](./PHP-Advanced/phpAdvancedE2.php) | [A3](./PHP-Advanced/phpAdvancedE3.php) | [A4](./PHP-Advanced/phpAdvancedE4.php) | [A5](./PHP-Advanced/phpAdvancedE5.php) | [A6](./PHP-Advanced/phpAdvancedE6.php) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
