@@ -56,6 +56,18 @@ Total: 47 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays3) | [Q4](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays4) | [Q5](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays5) | [Q6](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays6) | [Q7](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays7) | [Q8](https://www.w3schools.com/php/exercise.asp?filename=exercise_arrays8) |
 | Answer | [A1](./PHP-Arrays/phpArraysE1.php) | [A2](./PHP-Arrays/phpArraysE2.php) | [A3](./PHP-Arrays/phpArraysE3.php) | [A4](./PHP-Arrays/phpArraysE4.php) | [A5](./PHP-Arrays/phpArraysE5.php) | [A6](./PHP-Arrays/phpArraysE6.php) | [A7](./PHP-Arrays/phpArraysE7.php) | [A8](./PHP-Arrays/phpArraysE8.php) |
 
+## [PHP Forms](./PHP-Forms): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_forms.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_forms1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_forms2) |
+| Answer | [A1](./PHP-Forms/phpFormsE1.php) | [A2](./PHP-Forms/phpFormsE2.php) |
+
+## [PHP Dates](./PHP-Dates): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/php/php_date.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates1) | [Q2](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates2) | [Q3](https://www.w3schools.com/php/exercise.asp?filename=exercise_dates3) |
+| Answer | [A1](./PHP-Dates/phpDatesE1.php) | [A2](./PHP-Dates/phpDatesE2.php) | [A3](./PHP-Dates/phpDatesE3.php) |
+
 
   
 *more will be added soon*
